@@ -2,3 +2,11 @@
   width: 80%;
   margin: auto;
 }
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+hr {
+  color: #c6c6c6;
+}
