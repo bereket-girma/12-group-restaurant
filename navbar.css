@@ -1,0 +1,25 @@
+#social {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#icons {
+  font-size: 40px;
+  margin-top: 7px;
+  padding: 3px;
+}
+
+#logo {
+  flex-basis: 100%;
+  font-size: 25px;
+  font-family: "felipa";
+  font-weight: 900;
+}
+
+.fa-twitter {
+  color: #1c9aed;
+}
+
+.fa-facebook-square {
+  color: #325289;
+}
