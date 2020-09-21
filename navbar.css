@@ -7,13 +7,19 @@
   font-size: 40px;
   margin-top: 7px;
   padding: 3px;
+  position: relative;
+  top: 10px;
 }
 
 #logo {
   flex-basis: 100%;
-  font-size: 25px;
-  font-family: "felipa";
+  font-size: 40px;
+  font-family: Trattatello;
   font-weight: 900;
+  margin-bottom: -20px;
+  position: relative;
+  bottom: 25px;
+  color: #555b6e;
 }
 
 .fa-twitter {
@@ -22,4 +28,8 @@
 
 .fa-facebook-square {
   color: #325289;
+}
+
+.fa-instagram {
+  color: #faf9f9;
 }

@@ -7,7 +7,7 @@ fetch("https://obscure-tundra-54269.herokuapp.com/fine-dining")
           `<h4>${item.name}.................................${item.price}</h4>
         <div class="descriptions">  
         <p class="menuDescription">${item.description}</p>
-        <ul id="icons">
+        <ul id="icons2">
         <li id="infoIcon"><i class="fa fa-info-circle"></i><div class="infoPopup">*This item may contain shellfish or another item that some people may be allergic to. Please ask your waiter or waitress for assistance.</div></li>
         
         <li id="starIcon"><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -26,7 +26,7 @@ fetch("https://obscure-tundra-54269.herokuapp.com/fine-dining")
           `<h4>${item.name}.................................${item.price}</h4>
           <div class="descriptions">  
           <p class="menuDescription">${item.description}</p>
-          <ul id="icons">
+          <ul id="icons2">
           <li id="infoIcon"><i class="fa fa-info-circle"></i><div class="infoPopup">*This item may contain shellfish or another item that some people may be allergic to. Please ask your waiter or waitress for assistance.</div></li>
           
           <li id="starIcon"><i class="fa fa-star" aria-hidden="true"></i></li>
@@ -45,7 +45,7 @@ fetch("https://obscure-tundra-54269.herokuapp.com/fine-dining")
           `<h4>${item.name}.................................${item.price}</h4>
         <div class="descriptions">  
         <p class="menuDescription">${item.description}</p>
-        <ul id="icons">
+        <ul id="icons2">
         <li id="infoIcon"><i class="fa fa-info-circle"></i><div class="infoPopup">*This item may contain shellfish or another item that some people may be allergic to. Please ask your waiter or waitress for assistance.</div></li>
         
         <li id="starIcon"><i class="fa fa-star" aria-hidden="true"></i></li>

@@ -1,6 +1,5 @@
 #pageContainer {
-  width: 80%;
-  margin: auto;
+  margin-top: 40px;
 }
 .container {
   width: 90%;
@@ -8,5 +7,15 @@
 }
 
 hr {
-  color: #c6c6c6;
+  color: #89b0ae;
+}
+
+body {
+  background-color: #ffd6ba;
+  overflow-x: hidden;
+}
+
+#navbar {
+  border-bottom: 2px solid #faf9f9;
+  padding-bottom: 4px;
 }

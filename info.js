@@ -39,7 +39,7 @@ document.querySelector("#infoSection").innerHTML = `<div id="pageContainer">
 
     <!-- Tab content -->
     <div id="ourStory" class="tabcontent">
-      <p>
+      <p class="story">
         The oldest restaurant in Italy, located near the ocean beach in
         Milan, has been delighting hungry customers since 1800. Founded by
         Nick and Bereket and owned still today by both, Terra & Mare is

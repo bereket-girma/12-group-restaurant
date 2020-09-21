@@ -2,8 +2,7 @@ document.querySelector(
   ".cardsContainer"
 ).innerHTML = `<div class="column card1">
 <div class="header">
-  <h4>Latest News</h4>
-  <hr />
+  <h4 class="cardTitle">Latest News</h4>
 </div>
 <div >
   <h5 >Terra & Mare is opening...</h5> <h5 class="bold">June 7</h5>
@@ -17,8 +16,7 @@ document.querySelector(
 </div>
 <div class="column card2">
 <div class="header">
-  <h4>Today's Special</h4>
-  <hr />
+  <h4 class="cardTitle">Today's Special</h4>
   <div id="specialMenue"></div>
   <h5>
     Red Pepper Tagliatelle
@@ -34,8 +32,7 @@ document.querySelector(
 
 <div class="column card3">
 <div class="header">
-  <h4>Our Location</h4>
-  <hr />
+  <h4 class="cardTitle">Our Location</h4>
 </div>
 <div id="map">
   <iframe

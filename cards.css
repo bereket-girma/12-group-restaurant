@@ -16,23 +16,26 @@
 .column {
   padding: 10px;
   height: 300px;
-  border: 1px solid #aaaaaa;
-  background-color: #e8e8e8;
+  border: 2px solid #89b0ae;
+  background-color: #bee3db;
 }
 
 h4 {
   margin-top: 7px;
   margin-bottom: 10px;
+  color: #555b6e;
 }
 
 p {
   margin-left: 5px;
+  color: #555b6e;
 }
 
 h5 {
   margin-top: 14px;
   margin-bottom: 3px;
   margin-left: 5px;
+  color: #555b6e;
 }
 
 #specialMenue {
@@ -48,4 +51,9 @@ h5 {
 #address-phone {
   margin: 0 5px;
   text-align: center;
+}
+
+.cardTitle {
+  border-bottom: 2px solid #faf9f9;
+  padding-bottom: 4px;
 }
